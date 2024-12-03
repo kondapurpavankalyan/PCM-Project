@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="51" total="54" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21310" started-at="2022-08-11T14:59:33 IST" finished-at="2022-08-11T14:59:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21310" started-at="2022-08-11T14:59:33 IST" finished-at="2022-08-11T14:59:55 IST">
+      <class name="com.pcm.qa.testcases.CorrelationNamesPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="setup" is-config="true" duration-ms="5952" started-at="2022-08-11T14:59:33 IST" finished-at="2022-08-11T14:59:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="beforeTest" is-config="true" duration-ms="17" started-at="2022-08-11T14:59:39 IST" finished-at="2022-08-11T14:59:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ParentNodeCreation()[pri:1, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="ParentNodeCreation" duration-ms="6" started-at="2022-08-11T14:59:39 IST" finished-at="2022-08-11T14:59:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParentNodeCreation -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="beforeTest" is-config="true" duration-ms="3" started-at="2022-08-11T14:59:39 IST" finished-at="2022-08-11T14:59:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CorrelationNamesPageTitleTest()[pri:2, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="CorrelationNamesPageTitleTest" duration-ms="5196" started-at="2022-08-11T14:59:39 IST" description="Verifying Correlation Names Page Title" finished-at="2022-08-11T14:59:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CorrelationNamesPageTitleTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="beforeTest" is-config="true" duration-ms="3" started-at="2022-08-11T14:59:45 IST" finished-at="2022-08-11T14:59:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CNTestVerificationWithCN1()[pri:3, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="CNTestVerificationWithCN1" duration-ms="9892" started-at="2022-08-11T14:59:45 IST" description="Verifying Correlation Names Page With Correlation Name 1" finished-at="2022-08-11T14:59:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CNTestVerificationWithCN1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pcm.qa.testcases.CorrelationNamesPageTest@43ee72e6]" name="tearDown" is-config="true" duration-ms="212" started-at="2022-08-11T14:59:55 IST" finished-at="2022-08-11T14:59:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pcm.qa.testcases.CorrelationNamesPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

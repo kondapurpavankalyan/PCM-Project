@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Test Suite">
+  <test thread-count="5" name="PCM Regression Test Automation Suite">
+  
+    <classes>
+   	 
+   	 <!--  
+   	 <class name="com.pcm.qa.testcases.SearchPageTest"/> 
+   	
+   	 <class name="com.pcm.qa.testcases.DataFlowPageTest"/>
+   	 <class name="com.pcm.qa.testcases.TransVolReportPageTest"/>
+   	 <class name="com.pcm.qa.testcases.TransVolbyDocTypePageTest"/>
+   	 <class name="com.pcm.qa.testcases.VolbyPartnersPageTest"/>
+   	   
+     <class name="com.pcm.qa.testcases.CreatePartnerPageTest"/>
+     <class name="com.pcm.qa.testcases.ManagePartnerPageTest"/>
+     
+     <class name="com.pcm.qa.testcases.CreateApplicationPageTest"/>
+     <class name="com.pcm.qa.testcases.ManageApplicationPageTest"/>
+     
+     <class name="com.pcm.qa.testcases.BuildDataFlowPageTest"/>
+      
+     <class name="com.pcm.qa.testcases.CreateRulePageTest"/>
+     <class name="com.pcm.qa.testcases.ManageRulePageTest"/>
+     -->
+     <class name="com.pcm.qa.testcases.CreateUserPageTest"/>
+     <class name="com.pcm.qa.testcases.ManageUserPageTest"/>
+     
+     <class name="com.pcm.qa.testcases.CreateGroupPageTest"/>
+     <class name="com.pcm.qa.testcases.ManageGroupPageTest"/>
+       <!-- 
+     <class name="com.pcm.qa.testcases.CorrelationNamesPageTest"/>
+     <class name="com.pcm.qa.testcases.PollingIntervalPageTest"/>
+     <class name="com.pcm.qa.testcases.FileJobSchedularPageTest"/>  
+     -->
+         
+       
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

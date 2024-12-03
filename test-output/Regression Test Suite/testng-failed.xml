@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Test Suite]">
+  <test thread-count="5" name="PCM Regression Test Automation Suite(failed)">
+    <classes>
+      <class name="com.pcm.qa.testcases.FileJobSchedularPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="FileJobSchedularPageTitleTest"/>
+          <include name="ParentNodeCreation"/>
+        </methods>
+      </class> <!-- com.pcm.qa.testcases.FileJobSchedularPageTest -->
+      <class name="com.pcm.qa.testcases.CorrelationNamesPageTest">
+        <methods>
+          <include name="CNTestVerificationWithCN20"/>
+          <include name="CNTestVerificationWithCN22"/>
+          <include name="CNTestVerificationWithCN21"/>
+          <include name="CNTestVerificationWithCN24"/>
+          <include name="CNTestVerificationWithCN23"/>
+          <include name="CNTestVerificationWithCN26"/>
+          <include name="CNTestVerificationWithCN9"/>
+          <include name="CNTestVerificationWithCN25"/>
+          <include name="CNTestVerificationWithCN28"/>
+          <include name="CNTestVerificationWithCN27"/>
+          <include name="CorrelationNamesPageTitleTest"/>
+          <include name="CNTestVerificationWithCN29"/>
+          <include name="CNTestVerificationWithCN6"/>
+          <include name="CNTestVerificationWithCN3"/>
+          <include name="CNTestVerificationWithCN4"/>
+          <include name="CNTestVerificationWithCN1"/>
+          <include name="CNTestVerificationWithCN7"/>
+          <include name="CNTestVerificationWithCN8"/>
+          <include name="CNTestVerificationWithUpdate"/>
+          <include name="CNTestVerificationWithCN5"/>
+          <include name="CNTestVerificationWithCN2"/>
+          <include name="CNTestVerificationWithCancel"/>
+          <include name="CNTestVerificationWithCN31"/>
+          <include name="CNTestVerificationWithCN30"/>
+          <include name="CNTestVerificationWithCN33"/>
+          <include name="CNTestVerificationWithCN32"/>
+          <include name="ParentNodeCreation"/>
+          <include name="CNTestVerificationWithCN35"/>
+          <include name="CNTestVerificationWithCN34"/>
+          <include name="CNTestVerificationWithCN37"/>
+          <include name="CNTestVerificationWithCN36"/>
+          <include name="CNTestVerificationWithCN39"/>
+          <include name="CNTestVerificationWithCN38"/>
+          <include name="CNTestVerificationWithCN40"/>
+          <include name="setup"/>
+          <include name="CNTestVerificationWithCN42"/>
+          <include name="CNTestVerificationWithCN41"/>
+          <include name="CNTestVerificationWithCN44"/>
+          <include name="CNTestVerificationWithCN43"/>
+          <include name="CNTestVerificationWithCN46"/>
+          <include name="CNTestVerificationWithCN45"/>
+          <include name="CNTestVerificationWithCN48"/>
+          <include name="CNTestVerificationWithCN47"/>
+          <include name="CNTestVerificationWithCN49"/>
+          <include name="tearDown"/>
+          <include name="CNTestVerificationWithCN50"/>
+          <include name="CNTestVerificationWithCN11"/>
+          <include name="CNTestVerificationWithCN10"/>
+          <include name="CNTestVerificationWithCN13"/>
+          <include name="CNTestVerificationWithCN12"/>
+          <include name="CNTestVerificationWithCN15"/>
+          <include name="CNTestVerificationWithCN14"/>
+          <include name="CNTestVerificationWithCN17"/>
+          <include name="CNTestVerificationWithCN16"/>
+          <include name="CNTestVerificationWithCN19"/>
+          <include name="CNTestVerificationWithCN18"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.pcm.qa.testcases.CorrelationNamesPageTest -->
+      <class name="com.pcm.qa.testcases.PollingIntervalPageTest">
+        <methods>
+          <include name="CorrelationNamesPagewithEdit"/>
+          <include name="CorrelationNamesPagewithDelete"/>
+          <include name="CorrelationNamesPagewithValiddata"/>
+          <include name="ParentNodeCreation"/>
+          <include name="PoolingIntervalPageTitleTest"/>
+          <include name="setup"/>
+          <include name="beforeTest"/>
+          <include name="CorrelationNamesPagewithEmptyFields"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.pcm.qa.testcases.PollingIntervalPageTest -->
+    </classes>
+  </test> <!-- PCM Regression Test Automation Suite(failed) -->
+</suite> <!-- Failed suite [Regression Test Suite] -->
